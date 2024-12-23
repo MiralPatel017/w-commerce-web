@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgblure{
+    background-color: rgba(50, 50, 50, 0.422);
+    backdrop-filter: blur(2px);
+}
+.bgblurenav{
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(3px);
+}
