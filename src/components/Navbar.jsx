@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
-import { LuSun } from "react-icons/lu";
+import { LuSun } from 'react-icons/lu';
+
 import { FaMoon } from "react-icons/fa";
 import { useState } from "react";
 
